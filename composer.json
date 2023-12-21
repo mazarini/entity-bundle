@@ -1,6 +1,6 @@
 {
     "name": "mazarini/entity-bundle",
-    "description": "Base tools for entities.",
+    "description": "Base tools for entities and pagination.",
     "type": "symfony-bundle",
     "minimum-stability": "dev",
     "extra": {
